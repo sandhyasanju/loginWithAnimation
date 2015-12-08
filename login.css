@@ -1,0 +1,34 @@
+.main {
+  display: flex;
+}
+.login {
+  width: 50%;
+}
+h2 {
+  font-family: serif;
+}
+.form {
+  background: white;
+  border: 2px solid black;
+  margin: 50px auto;
+  padding: 10px;
+  width: 75%;
+}
+.span {
+  margin: 10px;
+}
+.input {
+  border-radius: 0px;
+}
+.or {
+  background: grey;
+  border-radius: 50%;
+}
+.btn {
+  width: 100%;
+}
+.images {
+  margin: auto;
+  text-align: center;
+  width: 50%;
+}
